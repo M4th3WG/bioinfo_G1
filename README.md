@@ -5,10 +5,10 @@ repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 ##PRESENTACIONES
 
 -Introducción
--Unix
--Git
--Pythton
--r
+- Unix
+- Git
+- Pythton
+- r
 
 
 ##VIDEOS DE SESIONES SINCRONICAS
@@ -16,10 +16,10 @@ repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 -Introducción
 - moleculas biologicas
 - bases de datos    
--Unix
--Git
--Pythton
--r
+- Unix
+- Git
+- Pythton
+- r
 
 
 ##PARTICIPANTES
