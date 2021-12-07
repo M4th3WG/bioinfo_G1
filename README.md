@@ -3,6 +3,7 @@ repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 
 
 ##PRESENTACIONES
+
 -Introducción
 -Unix
 -Git
@@ -11,6 +12,7 @@ repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 
 
 ##VIDEOS DE SESIONES SINCRONICAS
+
 -Introducción
 - moleculas biologicas
 - bases de datos    
