@@ -2,7 +2,7 @@
 repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 
 
-##PRESENTACIONES
+## PRESENTACIONES
 
 -Introducción
 - Unix
@@ -11,7 +11,7 @@ repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 - r
 
 
-##VIDEOS DE SESIONES SINCRONICAS
+## VIDEOS DE SESIONES SINCRONICAS
 
 -Introducción
 - moleculas biologicas
@@ -22,7 +22,7 @@ repositorio para materiales recursos de clases del grupo 1 de Bioinformatica
 - r
 
 
-##PARTICIPANTES
+## PARTICIPANTES
 1. Evelyng Vasques
 2. Joshue Ruiz
 
